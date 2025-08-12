@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#6ee7b7"/><stop offset="1" stop-color="#60a5fa"/></linearGradient></defs>
+  <rect rx="14" ry="14" x="2" y="2" width="60" height="60" fill="#0b0c10" stroke="url(#g)" stroke-width="2"/>
+  <text x="50%" y="54%" text-anchor="middle" font-family="system-ui,Segoe UI,Roboto" font-weight="700" font-size="24" fill="url(#g)">IW</text>
+</svg>
