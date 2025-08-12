@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750">
+  <rect width="100%" height="100%" fill="#10121a"/>
+  <rect x="10" y="10" width="1180" height="730" fill="none" stroke="#34384f" stroke-width="3"/>
+  <text x="40" y="80" fill="#6ee7b7" font-size="44" font-family="Segoe UI, Arial" font-weight="700">Real Estate — Demo</text>
+  <text x="40" y="130" fill="#60a5fa" font-size="26" font-family="Segoe UI, Arial">Substitua por captura do demo do nicho</text>
+</svg>
